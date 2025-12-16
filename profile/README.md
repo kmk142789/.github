@@ -1,21 +1,30 @@
 [![Unstoppable Domains](/profile/ud.svg)](https://unstoppabledomains.com)
 
-## The \#1 provider of NFT domains
+## The #1 provider of NFT domains
 
-[Unstoppable Domains](https://unstoppabledomains.com/) are NFT domains that let you create and own your digital identity and will help shape the future of Web3.
+Own your digital identity with [Unstoppable Domains](https://unstoppabledomains.com/). Our NFT domains help you shape the future of Web3 by giving you control and portability across platforms.
 
-[The Unstoppable Name Service (UNS)](https://github.com/unstoppabledomains/uns) is built on Ethereum and utilizes Polygon as a Layer 2 scaling solution. This allows us to provide NFT domains directly to individuals and businesses for a one-time purchase with no renewal fees, minting fees, or gas fees.
+### How it works
+- [Unstoppable Name Service (UNS)](https://github.com/unstoppabledomains/uns) is built on Ethereum with Polygon as a Layer 2 for scalable minting.
+- Domains are a one-time purchase—no renewal, minting, or gas fees.
+- Use your domain as a cryptocurrency address, login, universal username, and decentralized website URL.
 
-An Unstoppable NFT domain acts as a cryptocurrency address, login, universal username, and decentralized website URL. Learn more about NFT domains, crypto, NFTs, and Unstoppable Domains by visiting [our website](https://unstoppabledomains.com/), checking out our [YouTube](https://www.youtube.com/channel/UCg3gV2yVjRytsgpc1ZPiqjg) channel, and listening to our [podcast](https://the-unstoppable-podcast.simplecast.com/).
+### Learn more
+- Explore resources on our [website](https://unstoppabledomains.com/).
+- Watch tutorials on [YouTube](https://www.youtube.com/channel/UCg3gV2yVjRytsgpc1ZPiqjg).
+- Listen to the [Unstoppable Podcast](https://the-unstoppable-podcast.simplecast.com/).
 
-Check out some of the [DApps](https://unstoppabledomains.com/apps) collaborating with Unstoppable like [Coinbase Wallet](https://www.coinbase.com/wallet), [Dehive](https://dehive.finance/), [Trust Wallet](https://trustwallet.com/), [Cook.Finance](https://cook.finance/), [WallStreetBets](https://www.wsbdapp.com/), [Saddle Finance](https://saddle.finance/#/), and [more](https://unstoppabledomains.com/apps)!
+### Partner ecosystem
+Discover DApps collaborating with Unstoppable, including [Coinbase Wallet](https://www.coinbase.com/wallet), [Dehive](https://dehive.finance/), [Trust Wallet](https://trustwallet.com/), [Cook.Finance](https://cook.finance/), [WallStreetBets](https://www.wsbdapp.com/), [Saddle Finance](https://saddle.finance/#/), and [more](https://unstoppabledomains.com/apps).
 
-If you are a [developer](https://unstoppabledomains.com/developers), or would like to submit an app to integrate with Unstoppable Domains, visit our [documentation](https://docs.unstoppabledomains.com/) page.
+### Build with us
+If you are a [developer](https://unstoppabledomains.com/developers) or want to submit an integration, visit our [documentation](https://docs.unstoppabledomains.com/).
 
-Need assistance? Reach out to us on [Twitter](https://twitter.com/unstoppableweb), [Discord](https://discord.com/invite/unstoppabledomains), and [Telegram](https://t.me/unstoppabledomains), or visit our [Help Center](https://support.unstoppabledomains.com/support/home).
+### Support
+Need assistance? Reach out on [Twitter](https://twitter.com/unstoppableweb), [Discord](https://discord.com/invite/unstoppabledomains), [Telegram](https://t.me/unstoppabledomains), or visit our [Help Center](https://support.unstoppabledomains.com/support/home).
 
-----------
+-----------
 
 ## We're hiring!
 
-Unstoppable Domains’ remote, international team is made up of a wide range of diverse experiences, languages, cultures, nationalities and backgrounds. We are proud to be an inclusive employer with team members in over 18 countries. [Join us!](https://unstoppabledomains.com/careers)
+Unstoppable Domains’ remote, international team spans over 18 countries. We welcome diverse experiences, languages, cultures, nationalities, and backgrounds. [Join us!](https://unstoppabledomains.com/careers)
